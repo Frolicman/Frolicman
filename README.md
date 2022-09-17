@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! I’m Jurgen aka @Frolicman 
+  Hey there! I’m Jürgen aka @Frolicman 
 </h1>
 
 
