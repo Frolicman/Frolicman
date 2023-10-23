@@ -5,7 +5,7 @@
 
 👀 I’m interested in web3, decentralized finance (DeFi), and NFTs
 
-🌱 I’m currently learning how to write smart contracts, trying to understand Cairo language on StarkNet. Next step to dive deeper into Pyton.
+🌱 I’m currently learning how to write smart contracts, trying to understand Cairo language on StarkNet. Next step to dive deeper into Python.
 
 
 📫 Check out my Twitter and YouTube:
